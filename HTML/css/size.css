@@ -1,0 +1,66 @@
+.picture{
+    width: 50px;
+    height: 50px;
+}
+.hello{
+    text-align: center;
+    border:2px dotted  green;
+    color:black;
+    background-color: orange;
+    cursor: pointer;
+    border-radius: 30px;
+    line-height: 2;
+    opacity: 0.7;
+    font-size: medium; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+    font-weight: 200;
+    margin: 90px 40px 45px 50px;
+    height: 21px;
+    width: 800px;
+    padding: 32px 13px 32px 11px;
+    box-shadow: 15px 30px 20px 25px black;
+}
+.hello:hover{
+    background-color: burlywood;
+
+    
+}
+button{
+    border:dashed;
+    border-radius:20px;
+    width:60px;
+    height:20px;
+    background-color: brown;
+    cursor: pointer;
+}
+.container{
+    text-align: center;
+}
+
+body{
+     background-image: url(1026419587.jpg);
+     background-color: bisque;
+     background-size: cover;
+     background-position: center;
+     background-repeat: no-repeat;
+     margin-top: 100%;
+     padding:10px;
+     line-height: 2;
+     opacity: 0.7;
+}
+.hi{
+    white-space: pre;
+    line-height: 25px;
+    letter-spacing: 2px;
+    word-spacing: 10px;
+}
+h1{
+    text-shadow: 2px 2px grey;
+    text-align: center;
+    /* border: 5px solid black; */
+    margin: 10px 20px 20px 10px;
+    padding: 10px 20px;
+    text-decoration: line-through;
+    outline-style: dotted;
+    -webkit-text-stroke: 1px orange;
+}
